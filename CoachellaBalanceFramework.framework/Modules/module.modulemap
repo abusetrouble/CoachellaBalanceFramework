@@ -1,6 +1,0 @@
-framework module CoachellaBalanceFramework {
-  umbrella header "CoachellaBalanceFramework.h"
-
-  export *
-  module * { export * }
-}
